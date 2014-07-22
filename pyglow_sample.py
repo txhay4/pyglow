@@ -1,4 +1,4 @@
-#sample code from Pimoroni
+#altered sample code from Pimoroni
 
 from pyglow import PyGlow
 from time import sleep
